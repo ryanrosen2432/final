@@ -218,8 +218,14 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: white;
-}
+  color:#efaf2b;
+  
+  }
+/* paragraph color */
+section {
+    color: white;
+  }
+
 
 
 
